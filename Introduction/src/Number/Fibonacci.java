@@ -1,4 +1,4 @@
-package Number
+package Number;
 
 import java.util.Scanner;
 class Fibonacci {

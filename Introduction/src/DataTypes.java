@@ -7,7 +7,7 @@ class DataTypes {
 
         System.out.println(x + y);
 
-        boolean b = 12;
-        System.out.println(b);
+        //boolean b = 12;
+        //System.out.println(b);
     }
 }
