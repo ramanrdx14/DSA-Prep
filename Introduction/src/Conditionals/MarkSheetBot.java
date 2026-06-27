@@ -1,3 +1,5 @@
+package Conditionals;
+
 import java.util.Scanner;
 class MarkSheetBot {
     public static void main(String[] args){

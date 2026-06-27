@@ -1,3 +1,5 @@
+package Loops;
+
 import java.util.Scanner;
 class TestCases {
     public static void main(String[] args){

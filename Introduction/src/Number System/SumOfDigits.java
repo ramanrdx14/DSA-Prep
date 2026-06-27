@@ -1,3 +1,5 @@
+package Number
+
 import java.util.Scanner;
 class SumOfDigits {
     public static void main(String[] args){
